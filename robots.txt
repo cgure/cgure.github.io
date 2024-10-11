@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cgure.github.io/IaZ/sitemap.IaZ.gz
